@@ -62,7 +62,7 @@ This is a simple web application that checks the complexity of a password and pr
     justify-content: center;
     align-items: center;
     height: 100vh;
-}
+   }
 
     .container {
     max-width: 600px;
