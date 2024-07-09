@@ -33,6 +33,6 @@ This is a simple web application that checks the complexity of a password and pr
 ## License
 This project is licensed under the MIT License. 
 
-## Author 
+### Author 
 `Umar Farooq`
- Feel free to customize it further according to your needs!
+- Feel free to customize it further according to your needs!
